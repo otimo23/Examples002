@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Maxof9_function/1.0.0": {
+        "runtime": {
+          "Maxof9_function.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Maxof9_function/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

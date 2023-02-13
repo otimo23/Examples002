@@ -1,0 +1,15 @@
+C:\Users\otimo\Documents\E\IT\С Sharp\Examples002\Maxof9_function\bin\Debug\net6.0\Maxof9_function.exe
+C:\Users\otimo\Documents\E\IT\С Sharp\Examples002\Maxof9_function\bin\Debug\net6.0\Maxof9_function.deps.json
+C:\Users\otimo\Documents\E\IT\С Sharp\Examples002\Maxof9_function\bin\Debug\net6.0\Maxof9_function.runtimeconfig.json
+C:\Users\otimo\Documents\E\IT\С Sharp\Examples002\Maxof9_function\bin\Debug\net6.0\Maxof9_function.dll
+C:\Users\otimo\Documents\E\IT\С Sharp\Examples002\Maxof9_function\bin\Debug\net6.0\Maxof9_function.pdb
+C:\Users\otimo\Documents\E\IT\С Sharp\Examples002\Maxof9_function\obj\Debug\net6.0\Maxof9_function.csproj.AssemblyReference.cache
+C:\Users\otimo\Documents\E\IT\С Sharp\Examples002\Maxof9_function\obj\Debug\net6.0\Maxof9_function.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\otimo\Documents\E\IT\С Sharp\Examples002\Maxof9_function\obj\Debug\net6.0\Maxof9_function.AssemblyInfoInputs.cache
+C:\Users\otimo\Documents\E\IT\С Sharp\Examples002\Maxof9_function\obj\Debug\net6.0\Maxof9_function.AssemblyInfo.cs
+C:\Users\otimo\Documents\E\IT\С Sharp\Examples002\Maxof9_function\obj\Debug\net6.0\Maxof9_function.csproj.CoreCompileInputs.cache
+C:\Users\otimo\Documents\E\IT\С Sharp\Examples002\Maxof9_function\obj\Debug\net6.0\Maxof9_function.dll
+C:\Users\otimo\Documents\E\IT\С Sharp\Examples002\Maxof9_function\obj\Debug\net6.0\refint\Maxof9_function.dll
+C:\Users\otimo\Documents\E\IT\С Sharp\Examples002\Maxof9_function\obj\Debug\net6.0\Maxof9_function.pdb
+C:\Users\otimo\Documents\E\IT\С Sharp\Examples002\Maxof9_function\obj\Debug\net6.0\Maxof9_function.genruntimeconfig.cache
+C:\Users\otimo\Documents\E\IT\С Sharp\Examples002\Maxof9_function\obj\Debug\net6.0\ref\Maxof9_function.dll
